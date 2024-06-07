@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EL RINCON DEL GAMER</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Nombre de tu página</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Juegos</a></li>
+        <li><a href="#">Películas</a></li>
+        <li><a href="#">Series</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="seccion-destacada">
+      <h2>¡Descarga tus juegos favoritos!</h2>
+      <p>Disfruta de la mejor selección de juegos hackeados para todas las plataformas.</p>
+      <a href="#" class="boton">Descargar juegos</a>
+    </section>
+
+    <section class="seccion-catalogo">
+      <h2>Explora nuestro catálogo</h2>
+      <div class="contenedor-tarjetas">
+        </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Nombre de tu página</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
